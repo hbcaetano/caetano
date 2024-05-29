@@ -1,2 +1,3 @@
-# caetano
-alura
+# its me caetano
+repository for Alura classes
+
